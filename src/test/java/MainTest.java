@@ -12,6 +12,7 @@ import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 @ContextConfiguration(classes = AppConfig.class)
 public class MainTest {
 
+
     @Autowired
     private ApplicationContext applicationContext;
 
